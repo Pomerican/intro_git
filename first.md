@@ -1,3 +1,6 @@
 #### Udemy動画講座
 
 基本的なワークフローを学びます。
+
+- git add
+- git commit
